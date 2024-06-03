@@ -1,0 +1,36 @@
+.wrap {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  margin: -60vh -40vh -40vh -60vh;
+  width: 120vh;
+  height: 80vh;
+  background-color: hsl(300, 40%, 66%);
+  border-radius: 5vh;
+}
+
+.this-day-block{
+  display: inline-block;
+  width: 79vh;
+  height: 50vh;
+  background-color: burlywood;
+  margin: 4vh 1vh 2vh 4vh;
+  border-radius: 5vh;
+}
+
+.idk{
+  display: inline-block;
+  width: 29vh;
+  height: 50vh;
+  border-radius: 5vh;
+  background-color: palevioletred;
+  margin: 4vh 4vh 2vh 1vh;
+}
+
+.weak-block{
+  width: auto;
+  height: 20vh;
+  background-color: cadetblue;
+  border-radius: 5vh;
+  margin: 0vh 4vh 4vh 4vh;
+}
