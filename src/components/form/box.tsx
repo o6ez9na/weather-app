@@ -8,6 +8,8 @@ export default function Box() {
     <div className="idk">
 
     </div>
-    <div className="weak-block"></div>
+    <div className="weak-block">
+      
+    </div>
   </div>;
 }
